@@ -1,0 +1,11 @@
+{
+  "name": "Challenge02-MeetApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SudoOrange/Challenge02-MeetApp.git",
+  "author": "JorgeEder <sudoorange@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
